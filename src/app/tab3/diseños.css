@@ -1,0 +1,7 @@
+.letras{
+    color: blue;
+}
+ion-card-header.ios {
+    display: flex;
+    flex-flow: column-reverse;
+  }
